@@ -28,5 +28,7 @@ int main(){
   print_int(array_int, size_int);
   printf("\n");
 
+  swaps_and_compares();
+
   return 0;
 }

@@ -49,3 +49,8 @@ void print_char(int* array, int size){
   int i;
   for (i = 0; i < size; ++i) printf("%c ", array[i]);
 }
+
+void swaps_and_compares(void){
+  printf("\nComparacoes: %d", _compares);
+  printf("\nTrocas: %d", _swaps);
+}
