@@ -1,5 +1,6 @@
 /*===============================================================================*/
 /* Autor: Rafael Silvério da Silva - https://github.com/rafasilverio/merge_sort  */
+/*        Rodrigo Tribiolli Moreira
 /*===============================================================================*/
 
 #include "merge_sort.h"
